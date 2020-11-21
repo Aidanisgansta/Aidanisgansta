@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanisgangsta&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats!" />
 </a>
 <a href="https://github.com/aidanisgangsta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanisgangsta&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=radical&custom_title=Languages%20I%20Use!" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanisgangsta&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=cobalt&custom_title=Languages%20I%20Use!" />
 </a>
 
 <!--
