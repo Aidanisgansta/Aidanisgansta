@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋
 
 <a href="https://github.com/aidanisgangsta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanisgangsta&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=onedark&custom_title=My%20GitHub%20Stats!" />
