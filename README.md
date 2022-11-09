@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/aidanisgangsta">
+<a href="https://github.com/ayejay-nz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aidanisgangsta&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=dark&custom_title=My%20GitHub%20Stats!" />
 </a>
-<a href="https://github.com/aidanisgangsta">
+<a href="https://github.com/ayejay-nz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanisgangsta&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=dark&custom_title=Languages%20I%20Use!" />
 </a>
 
